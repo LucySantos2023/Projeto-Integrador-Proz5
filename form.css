@@ -1,0 +1,7 @@
+.navbar,
+    .search,
+    .language,
+    .redes-sociais,
+    .audio, div {
+        margin-bottom: 20px;
+    }
