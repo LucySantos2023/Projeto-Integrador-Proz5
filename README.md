@@ -32,4 +32,13 @@ Se você está interessado em ajudar no projeto, aqui estão algumas maneiras de
 
 -Melhorias de Design: Se você tem habilidades de design, pode ajudar a melhorar a aparência do site para torná-lo mais atraente e intuitivo.
 
+<h2>Técnicas e tecnologias utilizadas</h2>
 
+-HTML
+
+-CSS
+
+-JS
+
+<h2>Acesso ao Projeto</h2>
+Você pode acessar os arquivos do projeto clicando [aqui] https://github.com/LucySantos2023/Projeto-Integrador-Proz5/tree/main
