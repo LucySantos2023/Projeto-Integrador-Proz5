@@ -8,7 +8,7 @@
 
 <h1>Projeto Água Viva</h1>
 
-O Projeto Água Viva é um site informativo dedicado a conscientizar as pessoas sobre a importância da preservação da água e oferecer dicas e informações sobre como proteger este recurso vital. Feito colaborativamente pelo grupo 5 da turma 22 do Curso da Proz. 
+O Projeto Água Viva é um site informativo feito para a atividade de Projeto Integrador dedicado a conscientizar as pessoas sobre a importância da preservação da água e oferecer dicas e informações sobre como proteger este recurso vital. Feito colaborativamente pelo grupo 5 da turma 22 do Curso da Proz. 
 
 <h2>Objetivo</h2>
 
