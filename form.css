@@ -255,12 +255,13 @@ p, ul, li {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
     background-color: #4270AF;
     color: white;
     padding: 10px 20px;
     text-align: center;
     width: 100%;
-    bottom: 0;
     font-size: 18px;
 }
 
